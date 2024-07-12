@@ -1,0 +1,13 @@
+.idea/
+audio/
+data/00_zip/
+data/01_raw/
+data/02_sorted/
+data/03_interim/
+*.env 
+*.mp3
+*.zip
+*.bak
+*.png
+*.jpg
+*.wav
